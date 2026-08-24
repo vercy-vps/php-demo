@@ -4,10 +4,10 @@ echo ("I'm back to php! <br>");
 
 $amount = 5000;
 $rate = 500;
-$myName = "Somto";
+$myName = "Somtooo";
 
-echo ($amount * $rate);
-echo ($myName . "is owning me" . $amount . "at rate of" . $rate . "per day <br>");
+echo ($amount * $rate. "<br>");
+echo ($myName . " is owning me " . $amount . " at rate of " . $rate . " per day <br>");
 
 //calculate the price to buy goat meat
 function goatMeat($quantity, $price)
