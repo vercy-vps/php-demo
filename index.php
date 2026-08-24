@@ -4,7 +4,7 @@ echo ("I'm back to php! <br>");
 
 $amount = 5000;
 $rate = 500;
-$myName = "Somtooo";
+$myName = "Somto";
 
 echo ($amount * $rate. "<br>");
 echo ($myName . " is owning me " . $amount . " at rate of " . $rate . " per day <br>");
