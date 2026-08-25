@@ -1,10 +1,9 @@
 <?php
 echo ("Hello Vercy! <br>");
-echo ("I'm back to php! <br>");
 
-$amount = 5000;
+$amount = 15000;
 $rate = 500;
-$myName = "Miracle";
+$myName = "Mirabel";
 
 echo ($amount * $rate. "<br>");
 echo ($myName . " is owning me " . $amount . " at rate of " . $rate . " per day <br>");
