@@ -2,6 +2,7 @@
 //add html styling
 
 echo ("Hello there! <br>");
+echo ("Its gonna be my time. To show them that I can......! <br>");
 
 $amount = 300;
 $rate = 50;
